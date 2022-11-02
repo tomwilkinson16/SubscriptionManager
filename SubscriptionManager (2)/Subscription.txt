@@ -1,0 +1,10 @@
+asdfasf	B	1	-	One off Subscription	5.7	08-Jan-2022	
+08-Jan-2022	S	1	-	One off Subscription	7.6	tonm	
+08-Jan-2022	G	12	-	One off Subscription	79.686	viv	
+09-Jan-2022	B	3	TW22E4	One off Subscription	13.65	tom	
+09-Jan-2022	B	3	-	One off Subscription	14.25	tom	
+09-Jan-2022	B	3	-	One off Subscription	14.25	tom#	
+10-Jan-2022	B	3	-	One off Subscription	14.25	tom	
+10-Jan-2022	G	1	-	One off Subscription	9.490499999999999	tom	
+10-Jan-2022	G	1	TW22E1	One off Subscription	9.3906	tom	
+10-Jan-2022	S	3	TW22E2	Monthly Subscription	20.9958	tw	
